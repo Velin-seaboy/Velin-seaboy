@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Velin-seaboy
 - 👀 I’m interested in programming with python
-- 🌱 I’m currently learning Python adavnced
+- 🌱 I’m currently learning Python Adavnced
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me velininanov@mail.bg
 
